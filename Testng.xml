@@ -11,7 +11,7 @@
             <class name="FinalProject.LogInTest"/>
         </classes>
     </test>
-    <test name="TestSuit2" parallel="tests">
+    <test name="TestSuit3" parallel="tests">
         <classes>
             <class name="FinalProject.SearchTest"/>
         </classes>
